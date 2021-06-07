@@ -1,0 +1,2 @@
+def reverseSentence(A):
+    pass
